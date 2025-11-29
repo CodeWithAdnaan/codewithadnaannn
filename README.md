@@ -13,7 +13,7 @@
 
 <!--Start Intro-->               
 <p align="left">A passionate 17 y/o developer A passionate Full-Stack Developer | Gen-AI Certified | Cybersecurity Enthusiast from India. </p>
-- **I’m currently working on :** [PIXELNEST](https://pixelnestdev.vercel.app)
+- I’m currently working on : [PIXELNEST](https://pixelnestdev.vercel.app)
 
 - 🌱 I’m currently learning ***Next.js, Tailwind, FastAPI, NVIDIA AI APIs, Flask**
 
